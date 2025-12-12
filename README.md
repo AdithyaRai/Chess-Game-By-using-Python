@@ -19,9 +19,9 @@ This is a simple chess game implemented in Python using the Pygame library. The 
 
 1. Clone this repository or download the source code.
 2. Install the Pygame library if not already installed:
-   `'`bash
+   ``bash
    pip install pygame
-3.Ensure the images/ directory contains the required chess piece images:
+3. Ensure the images/ directory contains the required chess piece images:
  - black_pawn.png
  - white_pawn.png
  - black_rook.png
